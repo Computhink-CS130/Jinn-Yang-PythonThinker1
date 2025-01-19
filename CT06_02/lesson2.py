@@ -42,5 +42,6 @@
       #place random item in general waste bin
 
 
-#create variable "secretPhrase"
-# ask user "what is the password?""
+# create variable "secretPhrase"
+# ask user "what is the password?"
+# 
