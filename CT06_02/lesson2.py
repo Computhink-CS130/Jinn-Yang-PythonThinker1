@@ -39,4 +39,6 @@
     #if material is paper:
       #place paper item in paper bin
     #else:
-    # place random item in general waste bin
+      #place random item in general waste bin
+
+      
