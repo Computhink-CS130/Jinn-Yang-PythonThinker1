@@ -34,6 +34,6 @@
     #if material is glass:
       #place item in glass bin
     #if material is plastic:
-      #place item in plastic bin
+      #place plastic item in plastic bin
     #if material is paper:
-      #place item in paper bin
+      #place paper item in paper bin
