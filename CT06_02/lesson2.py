@@ -30,7 +30,7 @@
   #detect material of items
 #create glass bin variable
 #create plastic bin variable
-
+#create
 
 #if material is glass:
   #place item in 
