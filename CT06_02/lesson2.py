@@ -8,5 +8,6 @@ print("Hello from lesson 2")
 
 print("red")
 print("orange")
-print()
+print("yellow")
+
 print("blue")
