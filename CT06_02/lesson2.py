@@ -34,4 +34,4 @@
     #if material is glass:
       #place item in glass bin
     #if material is plastic:
-      #
+      #place item in 
