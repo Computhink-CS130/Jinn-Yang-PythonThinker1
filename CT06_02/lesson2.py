@@ -16,6 +16,12 @@
 
 
 
-#step 1. Repeat 10 times
-#step 2. Print("Hey!")
-#step 3. Move 10 steps
+#step 1. set variable "counter" to 0
+#step 2. repeat until counter is 50
+  #step 3. move 10 steps
+  #step 4. turn 15 degrees
+#step 5.change variable "counter" by 10
+
+#ask "what is your age" and wait
+#if answer < 18 say "access denied"
+#if answer > 18 say "welcome"
