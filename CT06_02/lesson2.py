@@ -35,4 +35,4 @@
       #place item in glass bin
     #if material is plastic:
       #place item in plastic bin
-    #if 
+    #if material is paper:
