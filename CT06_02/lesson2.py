@@ -27,6 +27,6 @@
 #if answer > 18 say "welcome"
 
 #detect material of items
-
+#repeat
 #if material is glass:
   #place item 
