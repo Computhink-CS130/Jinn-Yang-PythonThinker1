@@ -46,4 +46,3 @@
 # print "what is the password?"
 # if user imput = secretPhrase
   # print "Congratulations on having at least a single brain cell!"
-# if user imput
