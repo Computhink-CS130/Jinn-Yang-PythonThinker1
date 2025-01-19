@@ -36,4 +36,4 @@
     #if material is plastic:
       #place item in plastic bin
     #if material is paper:
-      #place 
+      #place item in paper bin
