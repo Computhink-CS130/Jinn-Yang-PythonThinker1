@@ -37,4 +37,4 @@
       #place plastic item in plastic bin
     #if material is paper:
       #place paper item in paper bin
-    #else
+    #else place 
