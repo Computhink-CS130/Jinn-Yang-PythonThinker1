@@ -28,8 +28,8 @@
 
 #repeat until items in recycling bin = 0
   #detect material of items
+#create glass bin variable
 #create 
-
 
 #if material is glass:
   #place item in 
