@@ -20,8 +20,11 @@
 #step 2. repeat until counter is 50
   #step 3. move 10 steps
   #step 4. turn 15 degrees
-#step 5.change variable "counter" by 10
+  #step 5.change variable "counter" by 10
 
 #ask "what is your age" and wait
 #if answer < 18 say "access denied"
 #if answer > 18 say "welcome"
+
+#detect material of items
+#if material is glass
