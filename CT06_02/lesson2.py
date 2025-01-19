@@ -43,6 +43,6 @@
 
 
 # create variable "secretPhrase"
-# print "what is the password?"
+# ask "what is the password?"
 # if user imput = secretPhrase
   # print "Congratulations on having at least a single brain cell!"
