@@ -29,7 +29,7 @@
 #create glass bin variable
 #create plastic bin variable
 #create paper bin variable
-#create general waste bin 
+#create general waste bin variable
 #repeat until items in recycling bin = 0
   #detect material of items
     #if material is glass:
