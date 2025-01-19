@@ -33,4 +33,5 @@
   #detect material of items
     #if material is glass:
       #place item in glass bin
-    #if material is plas
+    #if material is plastic:
+      #
