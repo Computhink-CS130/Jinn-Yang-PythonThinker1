@@ -8,8 +8,7 @@ print("Hello from lesson 2")
 
 print("orange")
 print("yellow")
-rint("red")
-p
+print("red")
 print("green")
 #print("blue")
 #print("purple")
