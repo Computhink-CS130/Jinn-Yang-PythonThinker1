@@ -42,4 +42,4 @@
       #place random item in general waste bin
 
 
-#create variable secretPhrase
+#create variable "secretPhrase"
