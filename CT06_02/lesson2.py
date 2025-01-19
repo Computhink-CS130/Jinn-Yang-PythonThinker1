@@ -27,6 +27,6 @@
 #if answer > 18 say "welcome"
 
 #repeat until items in recycling bin = 0
-#detect material of items
+  #detect material of items
 #if material is glass:
   #place item 
