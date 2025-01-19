@@ -16,4 +16,5 @@
 
 
 
-#step 1
+#step 1. Repeat 10 times
+#step 2. Print("")
