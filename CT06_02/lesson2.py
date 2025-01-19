@@ -28,5 +28,8 @@
 
 #repeat until items in recycling bin = 0
   #detect material of items
+#create 
+
+
 #if material is glass:
-  #place item 
+  #place item in 
