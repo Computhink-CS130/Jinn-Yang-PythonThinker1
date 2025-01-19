@@ -17,4 +17,5 @@
 
 
 #step 1. Repeat 10 times
-#step 2. Print("")
+#step 2. Print("Hey!")
+#step 3. Move 10 steps
