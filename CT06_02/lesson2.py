@@ -43,6 +43,6 @@
 
 
 # create variable "secretPhrase"
-# ask user "what is the password?"
+# print "what is the password?"
 # if user imput = secretPhrase
-  #
+  # print
