@@ -28,4 +28,4 @@
 
 #detect material of items
 #if material is glass:
-#place 
+#place item 
