@@ -32,7 +32,7 @@
 #repeat until items in recycling bin = 0
   #detect material of items
     #if material is glass:
-      #place item in glass bin
+      #place glass item in glass bin
     #if material is plastic:
       #place plastic item in plastic bin
     #if material is paper:
