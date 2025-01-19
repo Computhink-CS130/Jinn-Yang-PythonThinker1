@@ -6,8 +6,8 @@
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode.
 
+# print("red")
 # print("orange")
-# print("")
 # print("yellow")
 print("green")
 #print("blue")
