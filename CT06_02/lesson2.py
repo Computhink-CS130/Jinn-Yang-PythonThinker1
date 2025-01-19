@@ -43,4 +43,4 @@
 
 
 #create variable "secretPhrase"
-# ask user ""
+# ask user "what is the password?""
