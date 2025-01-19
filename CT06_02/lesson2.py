@@ -47,4 +47,4 @@
 # if user imput = secretPhrase:
   # print "Congratulations on having at least a single brain cell!"
 # else:
-  # print "try again"
+  # print "try again!"
