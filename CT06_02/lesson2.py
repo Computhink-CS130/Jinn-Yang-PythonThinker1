@@ -37,4 +37,4 @@
       #place plastic item in plastic bin
     #if material is paper:
       #place paper item in paper bin
-    #else place randim item in 
+    #else place random item in general waste bin
