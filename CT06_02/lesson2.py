@@ -7,8 +7,8 @@
 # Using comments, translate the code shown on screen into pseudocode.
 
 # print("orange")
+# print("")
 # print("yellow")
-# print("red")
 print("green")
 #print("blue")
 #print("indigo")
