@@ -44,4 +44,4 @@
 
 # create variable "secretPhrase"
 # ask user "what is the password?"
-# 
+# if user imput = 
